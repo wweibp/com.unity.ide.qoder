@@ -30,7 +30,7 @@
 2. 点击 **"+"** 按钮，选择 **"Add package from git URL..."**
 3. 输入以下 URL:
    ```
-   https://github.com/wweibp/QoderForUntiy.git
+   https://github.com/wweibp/com.unity.ide.qoder.git
    ```
 4. 点击 **"Add"** 并等待安装完成
 
