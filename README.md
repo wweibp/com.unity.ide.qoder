@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
 [![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](CHANGELOG.md)
 
-**Qoder Editor for Unity** 是一个官方包，用于将 Qoder IDE 与 Unity 游戏引擎集成。该包提供代码智能感知、项目文件生成和编辑器集成功能，让 Unity 开发者能够在 Qoder 中获得完整的开发体验。
+**Qoder Editor for Unity** 是一个用于将 Qoder IDE 与 Unity 游戏引擎集成。该包提供代码智能感知、项目文件生成和编辑器集成功能，让 Unity 开发者能够在 Qoder 中获得完整的开发体验。
 
 ## 🌟 特性
 
